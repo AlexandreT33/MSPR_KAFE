@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MSRP Mobile APP
 
 ## Initialisation
@@ -26,3 +27,6 @@ npx expo start
 ```
 
 Une fois le serveur lancé vous devriez le voir sur l'application. 
+=======
+# MSPR_KAFE
+>>>>>>> 4f15619b49c376ccc6745750bda44c1911e234a8
