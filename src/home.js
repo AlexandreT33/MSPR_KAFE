@@ -5,7 +5,7 @@ export default function Home(props) {
 
     return (
         <View style={styles.container}>
-            <Text>COUCOU {props.userUUID}</Text>
+            <Text>Bonjour {props.userUUID} !</Text>
         </View>
     );
 }
